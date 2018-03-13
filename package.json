@@ -1,0 +1,17 @@
+{
+  "name": "gigabyte_scraper",
+  "version": "1.0.0",
+  "description": "Asus BIOS scraper",
+  "main": "index.js",
+  "dependencies": {
+    "parse5": "^4.0.0",
+    "sync-rest-client": "^1.0.3",
+    "walk-parse5": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mimoja <git@mimoja.de>",
+  "license": "GPL-3.0"
+}
