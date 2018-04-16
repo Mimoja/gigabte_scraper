@@ -1,5 +1,5 @@
-# acer_firmware_scraper
-Fetch all firmware from Acer Support website
+# gigabyte_firmware_scraper
+Fetch all firmware from Gigabyte Support website
 
 ## Requirements
  - node.js
